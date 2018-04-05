@@ -1,7 +1,7 @@
 Voxelgarden
 ===========
 
-A Subgame for Minetest
+A Game for Minetest
 
 Forked by v-rob.
 
@@ -62,20 +62,20 @@ Special Thanks:
 I would like to thank:
 
 - Casimir, for making the original Voxelgarden;
-- Wuzzy, for the Mana, Mirror of Returning, Teletool, Schemedit, and Hudbars mods and for his prompting other people to have crafting guides in their subgames, or else I wouldn't have one;
+- Wuzzy, for the Mana, Mirror of Returning, Teletool, Schemedit, and Hudbars mods and for his prompting other people to have crafting guides in their games, or else I wouldn't have one;
 - JP, for making the crafting guide I edited for this game;
 - Nathan.S, for the autostore mod;
 - VanessaE for the furniture nodeboxes from HomeDecor;
 - jordan4ibanez for the drops mod;
 - The author of the currency mod, whoever it may be (The forum link is down), for the bartering table;
 - Sokomine, for the furniture shelf nodebox and formspec;
-- The collection of people working on Minetest Game because this subgame wouldn't exist without them;
+- The collection of people working on Minetest Game because this game wouldn't exist without them;
 - xeranas, for the weather_pack mod;
 - sofar, for the lightning mod;
 - D00MED, for the idea of motes from Legend of Minetest and the textures;
 - Duane, for the cherry leaves textures from squaresville_c;
 - celeron55, the core developers, and contributors to Minetest because this wouldn't exist without them either;
-- And anyone else I forgot to mention that did of made something that indirectly helped this subgame to exist.
+- And anyone else I forgot to mention that did of made something that indirectly helped this game to exist.
 
 
 License of source code:
