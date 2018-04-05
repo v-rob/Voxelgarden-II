@@ -1,0 +1,1 @@
+Adds an experience attribute to players, used to level up mana, health, etc.
