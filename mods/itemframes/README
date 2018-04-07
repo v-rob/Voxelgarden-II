@@ -1,0 +1,16 @@
+Minetest 0.4 mod: itemframes
+============================
+
+Original mod found here:
+https://forum.minetest.net/viewtopic.php?f=11&t=5600
+
+This version adds support for multiple pedestals. By default,
+there are pedestals of the exact same materials as in the stairs
+mod. You can add/remove new pedestals easily as much as you like.
+
+License of media (textures)
+---------------------------
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)                                 
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Jere Oikarinen: "./textures/itemframes_frame.png"
