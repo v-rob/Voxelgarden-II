@@ -126,8 +126,8 @@ motes.render = function(dtime, player)
 	end
 end
 
---[[motes.in_area = function(position)
-	if hw_utils.is_biome_frozen(position) == false then
+motes.in_area = function(position)
+	if hw_utils.is_biome_frozen(position) == true then
 		return false
 	end
 
@@ -135,7 +135,7 @@ end
 		return true
 	end
 	return false
-end--]]
+end
 
 motes.start = function()
 	manual_trigger_start = true
