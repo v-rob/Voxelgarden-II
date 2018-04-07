@@ -667,7 +667,7 @@ minetest.register_node("default:berry_leaves", {
 
 minetest.register_node("default:banana", {
 	description = "Banana",
-	drawtype = "torchlike",
+	drawtype = "plantlike",
 	visual_scale = 0.5,
 	tiles = {"default_banana.png"},
 	inventory_image = "default_banana.png",
