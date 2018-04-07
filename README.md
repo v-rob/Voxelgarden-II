@@ -1,5 +1,5 @@
-Voxelgarden
-===========
+Voxelgarden II
+==============
 
 A Game for Minetest
 
