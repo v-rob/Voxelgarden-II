@@ -75,7 +75,7 @@ I would like to thank:
 - D00MED, for the idea of motes from Legend of Minetest and the textures;
 - Duane, for the cherry leaves textures from squaresville_c;
 - celeron55, the core developers, and contributors to Minetest because this wouldn't exist without them either;
-- And anyone else I forgot to mention that did of made something that indirectly helped this game to exist.
+- And anyone else I forgot to mention that did or made something that indirectly helped this game to exist.
 
 
 License of source code:
