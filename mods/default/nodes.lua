@@ -409,7 +409,7 @@ minetest.register_node("default:cherry_sapling", {
 minetest.register_node("default:apple", {
 	description = "Apple",
 	drawtype = "plantlike",
-	visual_scale = 1.0,
+	visual_scale = 0.5,
 	tiles = {"default_apple.png"},
 	inventory_image = "default_apple.png",
 	wield_image = "default_apple.png",
@@ -446,7 +446,7 @@ minetest.register_node("default:apple_leaves", {
 minetest.register_node("default:pear", {
 	description = "Pear",
 	drawtype = "plantlike",
-	visual_scale = 1.0,
+	visual_scale = 0.5,
 	tiles = {"default_pear.png"},
 	inventory_image = "default_pear.png",
 	wield_image = "default_pear.png",
@@ -483,7 +483,7 @@ minetest.register_node("default:pear_leaves", {
 minetest.register_node("default:mango", {
 	description = "Mango",
 	drawtype = "plantlike",
-	visual_scale = 1.0,
+	visual_scale = 0.5,
 	tiles = {"default_mango.png"},
 	inventory_image = "default_mango.png",
 	wield_image = "default_mango.png",
@@ -520,7 +520,7 @@ minetest.register_node("default:mango_leaves", {
 minetest.register_node("default:orange", {
 	description = "Orange",
 	drawtype = "plantlike",
-	visual_scale = 1.0,
+	visual_scale = 0.5,
 	tiles = {"default_orange.png"},
 	inventory_image = "default_orange.png",
 	wield_image = "default_orange.png",
@@ -557,7 +557,7 @@ minetest.register_node("default:orange_leaves", {
 minetest.register_node("default:plum", {
 	description = "Plum",
 	drawtype = "plantlike",
-	visual_scale = 1.0,
+	visual_scale = 0.5,
 	tiles = {"default_plum.png"},
 	inventory_image = "default_plum.png",
 	wield_image = "default_plum.png",
@@ -594,7 +594,7 @@ minetest.register_node("default:plum_leaves", {
 minetest.register_node("default:peach", {
 	description = "Peach",
 	drawtype = "plantlike",
-	visual_scale = 1.0,
+	visual_scale = 0.5,
 	tiles = {"default_peach.png"},
 	inventory_image = "default_peach.png",
 	wield_image = "default_peach.png",
@@ -631,7 +631,7 @@ minetest.register_node("default:peach_leaves", {
 minetest.register_node("default:berry", {
 	description = "Berry",
 	drawtype = "plantlike",
-	visual_scale = 1.0,
+	visual_scale = 0.5,
 	tiles = {"default_berry.png"},
 	inventory_image = "default_berry.png",
 	wield_image = "default_berry.png",
@@ -668,7 +668,7 @@ minetest.register_node("default:berry_leaves", {
 minetest.register_node("default:banana", {
 	description = "Banana",
 	drawtype = "torchlike",
-	visual_scale = 1.0,
+	visual_scale = 0.5,
 	tiles = {"default_banana.png"},
 	inventory_image = "default_banana.png",
 	wield_image = "default_banana.png",
