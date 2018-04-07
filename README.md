@@ -72,7 +72,7 @@ I would like to thank:
 - The collection of people working on Minetest Game because this game wouldn't exist without them;
 - xeranas, for the weather_pack mod;
 - sofar, for the lightning mod;
-- D00MED, for the idea of motes from Legend of Minetest and the textures;
+- D00MED, for the idea of motes from Legend of Minetest and the textures, as well as the fruit mod;
 - Duane, for the cherry leaves textures from squaresville_c;
 - celeron55, the core developers, and contributors to Minetest because this wouldn't exist without them either;
 - And anyone else I forgot to mention that did or made something that indirectly helped this game to exist.
