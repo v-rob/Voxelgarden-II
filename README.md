@@ -37,7 +37,7 @@ Obviously, this is a lot different than both MT Game and Voxelgarden.  The main 
 - Hudbars.  These look better than normal hearts, in my opinion.  Plus, you can tell how much health, experience, and mana you have easily, because mana and experience change every time you level up.
 - A crafting guide.  It's a book that you get for free at the beginning of the game.  It looks somewhat like your creative inventory.
 - Furniture.  There are quite a few pieces of wooden furniture, as well as a bartering table (From the currency mod)
-- Weather.  Light, medium, and heavy rain, as well as snow and a new type of weather called motes.  Note: Lightning doesn't set things on fire because there is no fire.
+- Weather.  Light, medium, and heavy rain, as well as snow and a new type of weather called motes.  Note: Lightning doesn't set things on fire because there is no fire.  Warning!  This uses more entities than other weather mods to compensate for running and can slow down your computer a lot.  You may want to delete it totally on older/slower systems.  It won't affect the game if you do so.
 
 Beside these, I've made quite a few updates to Voxelgarden.  It had many outdated things, such as the old inventory, bad crafting guide, and the old screwdriver.  Farming didn't even work.  I also replaced stairsplus with the normal default stairs.  Boats didn't exist, and beds needed updating.
 
