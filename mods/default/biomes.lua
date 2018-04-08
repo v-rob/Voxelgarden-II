@@ -5,7 +5,7 @@ minetest.register_biome({
 	node_top = "default:dirt",			depth_top = 3,
 	node_riverbed = "default:dirt",	depth_riverbed = 2,
 	y_min = -32000,					y_max = 0,
-	heat_point = 30,				humidity_point = 40,
+	heat_point = 70,				humidity_point = 40,
 })
 
 minetest.register_biome({
@@ -13,7 +13,7 @@ minetest.register_biome({
 	node_top = "default:sand",			depth_top = 3,
 	node_riverbed = "default:sand",	depth_riverbed = 2,
 	y_min = -32000,					y_max = 5,
-	heat_point = 90,				humidity_point = 40,
+	heat_point = 130,				humidity_point = 40,
 })
 
 minetest.register_biome({
@@ -23,7 +23,7 @@ minetest.register_biome({
 	node_riverbed = "default:desert_sand",	depth_riverbed = 2,
 	node_stone = "default:desert_stone",
 	y_min = -32000,					y_max = 5,
-	heat_point = 110,				humidity_point = -60,
+	heat_point = 150,				humidity_point = -60,
 })
 
 minetest.register_biome({
@@ -32,7 +32,7 @@ minetest.register_biome({
 	node_filler = "default:stone",		depth_filler = 3,
 	node_riverbed = "default:gravel",	depth_riverbed = 2,
 	y_min = -32000,					y_max = 5,
-	heat_point = 30,				humidity_point = -60,
+	heat_point = 70,				humidity_point = -60,
 })
 
 -- Over 0
@@ -43,7 +43,7 @@ minetest.register_biome({
 	node_filler = "default:dirt",			depth_filler = 2,
 	node_riverbed = "default:dirt",	depth_riverbed = 2,
 	y_min = 1,					y_max = 32000,
-	heat_point = 00,				humidity_point = 70,
+	heat_point = 40,				humidity_point = 70,
 })
 -- Transition Conifer-Tree
 minetest.register_biome({
@@ -52,7 +52,7 @@ minetest.register_biome({
 	node_filler = "default:dirt",			depth_filler = 2,
 	node_riverbed = "default:dirt",	depth_riverbed = 2,
 	y_min = 1,					y_max = 32000,
-	heat_point = 25,				humidity_point = 75,
+	heat_point = 65,				humidity_point = 75,
 })
 
 minetest.register_biome({
@@ -61,7 +61,7 @@ minetest.register_biome({
 	node_filler = "default:dirt",			depth_filler = 3,
 	node_riverbed = "default:dirt",	depth_riverbed = 2,
 	y_min = 1,					y_max = 32000,
-	heat_point = 50,				humidity_point = 80,
+	heat_point = 90,				humidity_point = 80,
 })
 
 minetest.register_biome({
@@ -70,7 +70,7 @@ minetest.register_biome({
 	node_filler = "default:dirt",			depth_filler = 4,
 	node_riverbed = "default:dirt",	depth_riverbed = 2,
 	y_min = 1,					y_max = 32000,
-	heat_point = 100,				humidity_point = 70,
+	heat_point = 140,				humidity_point = 70,
 })
 
 minetest.register_biome({
@@ -80,7 +80,7 @@ minetest.register_biome({
 	node_riverbed = "default:sand",	depth_riverbed = 2,
 	node_stone = "default:desert_stone",
 	y_min = 1,					y_max = 32000,
-	heat_point = 115,				humidity_point = -45,
+	heat_point = 155,				humidity_point = -45,
 })
 
 -- Special Biomes
@@ -92,7 +92,7 @@ minetest.register_biome({
 	node_riverbed = "default:gravel",	depth_riverbed = 2,
 	node_river_water = "default:ice",
 	y_min = 1,					y_max = 32000,
-	heat_point = -20,				humidity_point = -30,
+	heat_point = 20,				humidity_point = -30,
 })
 
 minetest.register_biome({
@@ -103,7 +103,7 @@ minetest.register_biome({
 	node_riverbed = "default:gravel",	depth_riverbed = 2,
 	node_river_water = "default:ice",
 	y_min = 1,					y_max = 32000,
-	heat_point = -40,				humidity_point = -40,
+	heat_point = 1,				humidity_point = -40,
 })
 
 minetest.register_biome({
@@ -113,7 +113,7 @@ minetest.register_biome({
 	node_riverbed = "default:gravel",	depth_riverbed = 2,
 	node_stone = "default:desert_stone",
 	y_min = 1,					y_max = 32000,
-	heat_point = 160,				humidity_point = -20,
+	heat_point = 200,				humidity_point = -20,
 })
 
 -- Decoration
