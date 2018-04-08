@@ -123,8 +123,8 @@ local is_biome_frozen = function(position)
 	local noise_obj = minetest.get_perlin(np_temp)
 	local noise_temp = noise_obj:get2d({x = posx, y = posz})
 
-	-- below 35 heat biome considered to be frozen type
-	return noise_temp < 35
+	-- below 10 heat biome considered to be frozen type
+	return noise_temp < 10
 end
 
 hw_utils.is_biome_frozen = function(position)
