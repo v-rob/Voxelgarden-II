@@ -235,9 +235,9 @@ minetest.register_node("furnature:wood", {
 })
 
 minetest.register_craft({
-	output = 'furnature:wood',
+	output = 'furnature:wood 2',
 	recipe = {
-		{'default:wood'},
+		{'default:wood', 'default:wood'},
 	}
 })
 
