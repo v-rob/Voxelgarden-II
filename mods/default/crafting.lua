@@ -12,6 +12,12 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
+	type = "shapeless",
+	output = 'default:wood 1',
+	recipe = {'group:stick', 'group:stick', 'group:stick', 'group:stick', 'group:stick', 'group:stick', 'group:stick', 'group:stick'},
+})
+
+minetest.register_craft({
 	output = 'default:stick 6',
 	recipe = {
 		{'group:leaves'},
